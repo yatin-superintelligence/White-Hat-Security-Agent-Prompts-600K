@@ -106,7 +106,7 @@ The frontier of AI safety work requires models that don't just know what a suppl
 
 ### Weblinks
 
-- **[IM Superintelligence](https://www.imsuperintelligence.ai):** Visit my central knowledge hub hosting other open datasets and over 2,000 articles exploring Superintelligence, cognitive architectures, quantum computing, distributed networks, and the future of the global education sector, authored through a custom 8-step multi-model agentic infrastructure.
+- **[IM Superintelligence](https://www.imsuperintelligence.ai):** Visit my central knowledge hub hosting other open datasets and over **[2,000 articles](https://www.imsuperintelligence.ai/blog)** exploring Superintelligence, cognitive architectures, quantum computing, distributed networks, and the future of the global education sector, authored through a custom 8-step multi-model agentic infrastructure.
 - **[Yatin Taneja | Professional Portfolio](https://www.yatintaneja.in):** View my professional portfolio for a comprehensive overview of my skills, industry experience, and software prototypes.
 - **[LinkedIn](https://www.linkedin.com/in/yatintaneja-pro/):** Connect to collaborate on advanced autonomous systems, enterprise AI implementations, or to follow my ongoing research.
 
